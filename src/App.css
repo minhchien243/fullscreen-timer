@@ -37,7 +37,8 @@ body {
   height: 100%;
   margin: 0;
   padding: 0;
-  background: #000;
+  background-image: url('https://64.media.tumblr.com/b44a4de825c3d132b843069bc2be486d/tumblr_inline_ovkqb3KdHY1qdiwz3_540.gif');
+  background-size: cover;
 }
 
 @font-face {
